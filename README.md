@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @barbsandor
-- 👀 I’m interested in almost everything.
+- 👋 Hi, I’m @barbsandor.
 - 🌱 I’m currently learning finance, maths, statistics.
-- 💞️ I’m looking to collaborate on pricing, hedging financial products.
 - 📫 You can reach me by barbara.sandor93@gmail.com. 
 
 <!---
